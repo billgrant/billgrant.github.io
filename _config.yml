@@ -1,0 +1,47 @@
+# Site Settings
+title: "Documenting My learning Journey"
+name: "Bill Grant"
+description: "Documenting my journey as a Presales Engineer who like to keep up with the latest in technology"
+url: "https://billgrant.github.io"
+baseurl: ""
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+
+# Author
+author:
+  name: "Your Name"
+  bio: "Presales Engineer learning and sharing knowledge about technology."
+  location: "New Jersey, USA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/billgrant"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/bill-grant-95aa5888"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
