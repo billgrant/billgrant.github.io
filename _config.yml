@@ -1,8 +1,8 @@
 # Site Settings
-title: "Documenting My learning Journey"
+title: "Bill Grant"
 name: "Bill Grant"
-description: "Documenting my journey as a Presales Engineer who like to keep up with the latest in technology"
-url: "https://billgrant.github.io"
+description: "Learning modern infrastructure, cloud, and automation - with AI as a learning accelerator"
+url: "https://billgrant.io"
 baseurl: ""
 
 # Theme
@@ -20,10 +20,18 @@ author:
       url: "https://github.com/billgrant"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/bill-grant-95aa5888"
+      url: "https://www.linkedin.com/in/bill-grant-95aa5888/"
+
+# Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/billgrant" 
 
 # Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -34,6 +42,13 @@ defaults:
       comments: false
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Plugins
 plugins:
@@ -41,7 +56,19 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-paginate
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+paginate: 10
+paginate_path: /page:num/
+timezone: America/New_York
