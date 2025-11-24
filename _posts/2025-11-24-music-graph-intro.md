@@ -11,7 +11,7 @@ tags:
   - music
 ---
 
-***I am going to work on a project with Claude.ai that is personal music website I have been thinking about for a while. The details are in the post below. I told claude my idea and it made the post below. There were few edit requests and additions from me, but it is not been edit by after that. I plan to do most of the coding myself with Claude assisting*** 
+***I am going to work on a project with Claude.ai. It is personal music website I have been thinking about for a while. The details are in the post below. I told claude my idea and it made the post below. There were few edit requests and additions from me, however, the post has not "human" edited at all. I plan to do most of the coding myself with Claude assisting*** 
 
 I'm starting a new project to build an interactive web application that visualizes music genres and bands as a connected graph. Think circles and lines - "Rock" connects to "Metal," which connects to "Death Metal" and "Groove Metal," and those connect to specific bands like Pantera.
 
