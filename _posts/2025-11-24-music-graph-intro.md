@@ -204,4 +204,15 @@ Let's see where this goes.
 
 ---
 
+## Progress Updates
+
+This is an ongoing project. Follow along with these posts:
+
+- [Getting Flask Running](https://billgrant.io/2025/11/24/flask-setup-post/) - Phase 1: Basic Flask setup and data display
+- More posts coming as development continues...
+
+All posts are tagged with [#music-graph](https://billgrant.io/tags/#music-graph).
+
+---
+
 *This is part of an ongoing series building a music genre graph application. Future posts will document each phase of development.*
