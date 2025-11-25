@@ -10,7 +10,7 @@ tags:
   - web-development
 ---
 
-***I built this shell of my application doing pair programming with claude.ai. Claude wrote the majority of the code, but I asked for detailed explanations on anything I didn't understand. Below is the post claude wrote recapping our session. I edited it a bit and added the screenshot***
+***I built this shell of my application doing pair programming with claude.ai. Claude wrote the majority of the code, but I asked for detailed explanations on anything I didn't understand. Below is the post claude wrote recapping our session. I edited it a bit and added the screenshot. [Code created during this session](https://github.com/billgrant/music-graph/releases/tag/v0.0.1-alpha)***
 
 First real progress on the music graph project - got a basic Flask application running that displays genre and band data.
 
