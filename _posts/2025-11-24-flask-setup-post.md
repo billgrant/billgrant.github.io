@@ -63,7 +63,7 @@ It's basic, but it works. The data structure flows from Python dictionaries → 
 
 ## Screenshot
 
-![musicgraphpoc](assets/images/Screenshot 2025-11-24 183319.png)
+![musicgraphpoc](assets/images/music-graph-screenshot-2025-11-24.png)
 
 ## What I Learned
 
@@ -80,4 +80,4 @@ For now, the foundation is solid: Flask is running, data is displaying, and I un
 
 ---
 
-*This is part of the [Music Genre Graph project series](https://billgrant.io). See the [project introduction]({% post_url 2025-11-24-music-graph-intro %}) for the full roadmap.*
+*This is part of the [Music Genre Graph project series]([music-graph tag]({{ site.url }}/tags/#music-graph)). See the [project introduction]({% post_url 2025-11-24-music-graph-intro %}) for the full roadmap.*
