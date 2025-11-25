@@ -80,4 +80,4 @@ For now, the foundation is solid: Flask is running, data is displaying, and I un
 
 ---
 
-*This is part of the [Music Genre Graph project series]({{ site.url }}/tags/#music-graph). See the [project introduction]({% post_url 2025-11-24-music-graph-intro %}) for the full roadmap.*
+*This is part of the [Music Genre Graph project series](/tags/#music-graph). See the [project introduction]({% post_url 2025-11-24-music-graph-intro %}) for the full roadmap.*
