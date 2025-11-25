@@ -69,7 +69,7 @@ It's basic, but it works. The data structure flows from Python dictionaries → 
 
 - Flask's `@app.route()` decorator maps URLs to functions
 - `render_template()` passes data to Jinja2 templates
-- Templates use `{{ }}` for variables and `{% %}` for control flow
+- Templates use `{% raw %}{{ }}{% endraw %}` for variables and `{% raw %}{% %}{% endraw %}` for control flow
 - The development flow: change data → save → refresh → see results
 
 ## Next Steps
