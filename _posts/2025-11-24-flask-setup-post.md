@@ -42,9 +42,11 @@ The decorator tells Flask "when someone visits `/`, run this function." The func
 
 **Template loops:**
 ```html
+{% raw %}
 {% for genre_id, genre_data in genres.items() %}
     <h3>{{ genre_data.name }}</h3>
 {% endfor %}
+{% endraw %}
 ```
 
 Jinja2 iterates through the data and generates HTML for each item. Change the data in `data.py`, refresh the page, and it updates automatically.

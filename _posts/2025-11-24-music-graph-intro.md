@@ -8,7 +8,7 @@ tags:
   - flask
   - web-development
   - learning-in-public
-  - music
+  - music-graph
 ---
 
 ***I am going to work on a project with Claude.ai. It is personal music website I have been thinking about for a while. The details are in the post below. I told claude my idea and it made the post below. There were few edit requests and additions from me, however, the post has not "human" edited at all. I plan to do most of the coding myself with Claude assisting*** 
