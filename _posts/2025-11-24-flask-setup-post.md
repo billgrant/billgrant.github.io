@@ -63,7 +63,7 @@ It's basic, but it works. The data structure flows from Python dictionaries → 
 
 ## Screenshot
 
-![music-graph-screenshot]({{ site.baseurl }}/assets/images/music-graph-screenshot-2025-11-24.png)
+![music-graph-screenshot](/assets/images/music-graph-screenshot-2025-11-24.png)
 
 ## What I Learned
 
