@@ -12,6 +12,8 @@ tags:
   - javascript
 ---
 
+***Phase 1 is now complete. I learned alot during this session with Claude. I have almost zero experience with Javascript. I had Claude break down each function and help me mind map it back Python. Below is the post about our seesion in Claude's word with minor edits by me.***
+
 Implemented the expand/collapse functionality today. Genres can now be clicked to show or hide their bands, keeping the graph clean and focused.
 
 ## The Goal
