@@ -206,9 +206,13 @@ Let's see where this goes.
 
 ## Progress Updates
 
+## Progress Updates
+
 This is an ongoing project. Follow along with these posts:
 
 - [Getting Flask Running](https://billgrant.io/2025/11/24/flask-setup-post/) - Phase 1: Basic Flask setup and data display
+- [Visualizing Genre Connections](https://billgrant.io/2025/11/25/vis-js-blog-post/) - Phase 1: Graph visualization with Vis.js
+- [Adding Bands to the Graph](https://billgrant.io/2025/11/26/bands-blog-post/) - Phase 1: Band nodes and primary genre connections
 - More posts coming as development continues...
 
 All posts are tagged with [#music-graph](https://billgrant.io/tags/#music-graph).
