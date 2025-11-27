@@ -208,9 +208,13 @@ Let's see where this goes.
 
 ## Progress Updates
 
-**Phase 1 Complete! ✅**
+---
 
-The proof of concept is working. Flask serves the data, Vis.js renders an interactive graph, and genres can be expanded to show their bands.
+## Progress Updates
+
+**Phase 2 Complete! ✅**
+
+The application now uses a proper database with SQLAlchemy and SQLite. All Phase 1 functionality preserved, but now with persistent storage and proper genre hierarchy.
 
 **Phase 1 Posts:**
 - [Getting Flask Running](https://billgrant.io/2025/11/24/flask-setup-post/) - Basic Flask setup and data display
@@ -218,10 +222,12 @@ The proof of concept is working. Flask serves the data, Vis.js renders an intera
 - [Adding Bands to the Graph](https://billgrant.io/2025/11/26/bands-blog-post/) - Band nodes and primary genre connections
 - [Interactive Expand/Collapse](https://billgrant.io/2025/11/26/phase-1-5-blog-post/) - Click to show/hide bands (Phase 1 complete)
 
-**Next:** Phase 2 will move from hardcoded dictionaries to a proper database.
+**Phase 2 Posts:**
+- [Database Integration](https://billgrant.io/2025/11/26/phase-2-blog-post/) - SQLAlchemy ORM and proper hierarchy (Phase 2 complete)
+
+**Next:** Phase 3 will add CRUD operations - web forms to add/edit genres and bands.
 
 All posts are tagged with [#music-graph](https://billgrant.io/tags/#music-graph).
-
 ---
 
 *This is part of an ongoing series building a music genre graph application. Future posts will document each phase of development.*
