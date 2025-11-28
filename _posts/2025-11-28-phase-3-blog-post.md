@@ -12,7 +12,7 @@ tags:
   - forms
 ---
 
-***In this session Claude and I added CRUD operations. This was by far the easiest for me to get through. Meaning that I didn't ask as many questions or need to step through things line by line. I think it is because the type of Python we were writing is similar to projects I have wrote in past. Below is the post written by Claude with screenshots added by me.
+***In this session Claude and I added CRUD operations. This was by far the easiest for me to get through. Meaning that I didn't ask as many questions or need to step through things line by line. I think it is because the type of Python we were writing is similar to projects I have wrote in past. Below is the post written by Claude with screenshots added by me.***
 
 Phase 3 is complete - the application now has full CRUD (Create, Read, Update, Delete) operations. You can add, edit, and delete genres and bands through web forms instead of editing code or database files.
 
