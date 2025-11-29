@@ -214,9 +214,13 @@ Let's see where this goes.
 
 ## Progress Updates
 
-**Phase 3 Complete! ✅**
+---
 
-The application now has full CRUD operations - you can add, edit, and delete genres and bands through web forms. An admin panel provides oversight of all data.
+## Progress Updates
+
+**Phase 4 Complete! ✅**
+
+The application now has user authentication and role-based access control. Only admins can modify data, making it secure for multi-user deployment.
 
 **Phase 1 Posts:**
 - [Getting Flask Running](https://billgrant.io/2025/11/24/flask-setup-post/) - Basic Flask setup and data display
@@ -230,7 +234,10 @@ The application now has full CRUD operations - you can add, edit, and delete gen
 **Phase 3 Posts:**
 - [CRUD Operations and Admin Panel](https://billgrant.io/2025/11/26/phase-3-blog-post/) - Full data management (Phase 3 complete)
 
-**Next:** Phase 4 will add user authentication - login/logout and protecting CRUD operations so only authenticated users can make changes.
+**Phase 4 Posts:**
+- [User Authentication and Authorization](https://billgrant.io/2025/11/26/phase-4-blog-post/) - Login and role-based access (Phase 4 complete)
+
+**Next:** Phase 5 will deploy the application to a homelab server with reverse proxy, SSL certificates, and production configuration. This makes it accessible to Aidan remotely instead of just localhost.
 
 All posts are tagged with [#music-graph](https://billgrant.io/tags/#music-graph).
 
