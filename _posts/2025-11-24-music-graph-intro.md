@@ -198,23 +198,9 @@ Some posts will be short updates. Others will be deeper dives into specific prob
 
 The next post will cover setting up the basic Flask application and rendering a simple hardcoded music graph as a proof of concept. Nothing fancy - just getting something running locally.
 
-If you're interested in following along, the code will be on [GitHub](https://github.com/yourusername/music-graph) (link TBD once I create the repo).
+If you're interested in following along, the code will be on [GitHub](https://github.com/billgrant/music-graph) 
 
 Let's see where this goes.
-
----
-
----
-
-## Progress Updates
-
----
-
----
-
-## Progress Updates
-
----
 
 ## Progress Updates
 
@@ -237,7 +223,10 @@ The application now has user authentication and role-based access control. Only 
 **Phase 4 Posts:**
 - [User Authentication and Authorization](https://billgrant.io/2025/11/26/phase-4-blog-post/) - Login and role-based access (Phase 4 complete)
 
-**Next:** Phase 5 will deploy the application to a homelab server with reverse proxy, SSL certificates, and production configuration. This makes it accessible to Aidan remotely instead of just localhost.
+**Phase 5 Posts:**
+- [Production Deployment to GCP](https://billgrant.io/2025/11/26/phase-5-blog-post/) - Dockerization, Terraform, SSL, production infrastructure
+
+**Current Phase:** Phase 6 - CI/CD and DevOps
 
 All posts are tagged with [#music-graph](https://billgrant.io/tags/#music-graph).
 
