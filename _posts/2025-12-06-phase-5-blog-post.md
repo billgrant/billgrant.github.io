@@ -15,7 +15,7 @@ tags:
   - ssl
 ---
 
-***The application is up and running in an almost production ready way. I went with GCP for hosting after asking Claude for options. The reason for me was because I work with other CSPs (AWS and Azure) on daily basis. I don't have a great deal of exposure to GCP and I wanted to learn more about it. I found it interesting that Claude kept forgetting that we had to rebuild the docker container for the changes to take affect. I guess Claude missed the class on how a docker container is immutable / how layers work. Below is the post written by claude.   
+***The application is up and running in an almost production ready way. I went with GCP for hosting after asking Claude for options. The reason for me was because I work with other CSPs (AWS and Azure) on daily basis. I don't have a great deal of exposure to GCP and I wanted to learn more about it. I found it interesting that Claude kept forgetting that we had to rebuild the docker container for the changes to take affect. I guess Claude missed the class on how a docker container is immutable / how layers work. Below is the post written by claude.***  
 
 Phase 5 is complete - the application is now deployed to Google Cloud Platform and accessible at [https://music-graph.billgrant.io](https://music-graph.billgrant.io). This phase transformed a localhost prototype into a production service.
 
