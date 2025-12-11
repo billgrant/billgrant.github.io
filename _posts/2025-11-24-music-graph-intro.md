@@ -229,10 +229,13 @@ The application now has user authentication and role-based access control. Only 
 **Phase 6 Posts:**
 - [Multiple Parent Genres](https://billgrant.io/2025/12/08/phase-6-multiple-parent-genres/) - Many-to-many parent relationships
 
+**Phase 7 Posts:**
+- [CI/CD and Production DevOps](https://billgrant.io/2025/12/11/phase-7-cicd-devops/) - GitHub Actions, database backups, SSL auto-renewal (Phase 7 complete)
+
 **Workflow Posts:**
 - [Upgrading My AI Workflow with MCP](https://billgrant.io/2025/12/07/mcp-setup/) - Model Context Protocol setup for better file access
 
-**Current Phase:** Phase 7 - CI/CD and DevOps
+**Current Phase:** Phase 8 - Infrastructure Modernization
 
 All posts are tagged with [#music-graph](https://billgrant.io/tags/#music-graph).
 
