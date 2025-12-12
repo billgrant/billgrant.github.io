@@ -16,13 +16,13 @@ tags:
 
 ## Screenshots
 
-![Home](../assets/images/home_p8.png)
+![Home](/assets/images/home_p8.png)
 
-![genre](../assets/images/addgenre_p8.png)
+![genre](/assets/images/addgenre_p8.png)
 
-![band](../assets/images/addband_p8.png)
+![band](/assets/images/addband_p8.png)
 
-![admin](../assets/images/admin_p8.png)
+![admin](/assets/images/admin_p8.png)
 
 ---
 
