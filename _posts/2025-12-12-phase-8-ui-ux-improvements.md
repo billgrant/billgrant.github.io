@@ -72,7 +72,9 @@ All genre nodes were the same size, making it hard to visually identify the hier
 
 ```javascript
 // In the Jinja template
+{% raw %}
 size: {% if genre.type == 'root' %}40{% elif genre.type == 'intermediate' %}25{% else %}15{% endif %}
+{% endraw %}
 ```
 
 This required two changes:
