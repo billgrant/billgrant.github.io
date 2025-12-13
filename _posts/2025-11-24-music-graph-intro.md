@@ -204,9 +204,9 @@ Let's see where this goes.
 
 ## Progress Updates
 
-**Phase 4 Complete! ✅**
+**Phase 9 Complete! ✅ - WE'RE LIVE!**
 
-The application now has user authentication and role-based access control. Only admins can modify data, making it secure for multi-user deployment.
+The site is now publicly accessible at [music-graph.billgrant.io](https://music-graph.billgrant.io). Phase 9 replaced Flask's dev server with Gunicorn, added rate limiting, implemented GCP Secret Manager for credentials, and opened the firewall to the world.
 
 **Phase 1 Posts:**
 - [Getting Flask Running](https://billgrant.io/2025/11/24/flask-setup-post/) - Basic Flask setup and data display
@@ -232,10 +232,16 @@ The application now has user authentication and role-based access control. Only 
 **Phase 7 Posts:**
 - [CI/CD and Production DevOps](https://billgrant.io/2025/12/11/phase-7-cicd-devops/) - GitHub Actions, database backups, SSL auto-renewal (Phase 7 complete)
 
+**Phase 8 Posts:**
+- [UI/UX Improvements](https://billgrant.io/2025/12/12/phase-8-ui-ux-improvements/) - Viewport sizing, node hierarchy, filtering, footer (Phase 8 complete)
+
+**Phase 9 Posts:**
+- [Going Public](https://billgrant.io/2025/12/13/phase-9-going-public/) - Gunicorn, rate limiting, GCP Secret Manager, public launch (Phase 9 complete)
+
 **Workflow Posts:**
 - [Upgrading My AI Workflow with MCP](https://billgrant.io/2025/12/07/mcp-setup/) - Model Context Protocol setup for better file access
 
-**Current Phase:** Phase 8 - Infrastructure Modernization
+**Current Phase:** Phase 10 - UI Enhancements
 
 All posts are tagged with [#music-graph](https://billgrant.io/tags/#music-graph).
 
