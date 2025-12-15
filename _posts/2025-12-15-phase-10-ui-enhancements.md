@@ -11,9 +11,16 @@ tags:
   - jinja2
 ---
 
-***Phase 10 focused on UI improvements - specifically surfacing all the relationship data we've been storing but not displaying. This phase was also a great JavaScript learning experience for me. We built a generic detail panel system that's designed to grow with the application. Claude takes it from here.***
+***Phase 10 focused on UI improvements - We wanted to display the data that we have have in the database but have been hiding from the user. We created a side panel that pulls out when you click on band or a genre. It will show things like parent genres or in case of a band it will show all of the genres that band belongs too.This was a great Javascript learning experience for me. Claude will tell you the rest***
 
 ---
+
+## Screenshots
+
+![sidepanel1](/assets/images/sidepanel1.png)
+
+![sidepanel2](/assets/images/sidepanel2.png)
+
 
 ## The Problem: Hidden Data
 
