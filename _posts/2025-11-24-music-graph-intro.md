@@ -204,9 +204,9 @@ Let's see where this goes.
 
 ## Progress Updates
 
-**Phase 9 Complete! ✅ - WE'RE LIVE!**
+**Phase 10 Complete! ✅**
 
-The site is now publicly accessible at [music-graph.billgrant.io](https://music-graph.billgrant.io). Phase 9 replaced Flask's dev server with Gunicorn, added rate limiting, implemented GCP Secret Manager for credentials, and opened the firewall to the world.
+Phase 10 added a detail panel that shows all band/genre relationships when you click a node. We also implemented Jinja2 template inheritance to DRY up our templates. The site is live at [music-graph.billgrant.io](https://music-graph.billgrant.io).
 
 **Phase 1 Posts:**
 - [Getting Flask Running](https://billgrant.io/2025/11/24/flask-setup-post/) - Basic Flask setup and data display
@@ -238,10 +238,13 @@ The site is now publicly accessible at [music-graph.billgrant.io](https://music-
 **Phase 9 Posts:**
 - [Going Public](https://billgrant.io/2025/12/13/phase-9-going-public/) - Gunicorn, rate limiting, GCP Secret Manager, public launch (Phase 9 complete)
 
+**Phase 10 Posts:**
+- [UI Enhancements](https://billgrant.io/2025/12/15/phase-10-ui-enhancements/) - Detail panel, base template, generic renderer (Phase 10 complete)
+
 **Workflow Posts:**
 - [Upgrading My AI Workflow with MCP](https://billgrant.io/2025/12/07/mcp-setup/) - Model Context Protocol setup for better file access
 
-**Current Phase:** Phase 10 - UI Enhancements
+**Current Phase:** Phase 11 - Infrastructure Modernization
 
 All posts are tagged with [#music-graph](https://billgrant.io/tags/#music-graph).
 
