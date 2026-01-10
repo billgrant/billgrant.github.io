@@ -207,4 +207,4 @@ Phase 2: the actual API endpoints — CRUD for items, display panel for injected
 
 ---
 
-***Three sessions in and I'm starting to feel the Go patterns clicking. The explicit error handling felt tedious at first, but I can see how it prevents the "exception hiding somewhere" problem. The ResponseWriter thing was the biggest shift — Flask spoiled me by hiding the HTTP mechanics. Still getting used to pointers, but the "is this a copy or reference?" question is clearer when it's explicit in the code. On to Phase 2.***
+
