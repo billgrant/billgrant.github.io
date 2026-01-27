@@ -1,8 +1,15 @@
 ---
-layout: post
 title: "Demo App: Phase 7 — Observability & Polish"
 date: 2026-01-22
-tags: demo-app go learning-in-public
+categories:
+  - projects
+  - go
+tags:
+  - demo-app
+  - go
+  - observability
+  - prometheus
+  - learning-in-public
 ---
 
 ***This phase started off simple create metrics endpoint and create a webhook that ships generic logs. We ended up refactoring the code into multiple files given the size of main.go. Something about Go really clicked for me when we dicussed structs and interfaces at length. I will let Claude explain the rest*** 

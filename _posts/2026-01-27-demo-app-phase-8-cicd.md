@@ -1,8 +1,15 @@
 ---
-layout: post
 title: "Demo App: Phase 8 — CI/CD & Publishing"
 date: 2026-01-27
-tags: demo-app go learning-in-public
+categories:
+  - projects
+  - go
+tags:
+  - demo-app
+  - go
+  - cicd
+  - terraform
+  - learning-in-public
 ---
 
 ***In this session we covered unit tests, CI/CD, binary and container publishing, and Terraform provider publishing. This session was probably the easiest one for me to follow as it was relatively light on the Go. Really interesting to learn what it looks like to publish and maintain a provider on registry.terraform.io. I will let Claude explain what we did in detail below***
